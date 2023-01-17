@@ -44,6 +44,7 @@ I try these commands together:
 5. `cp hello.txt newdir` copied the file `"hello.txt"` into directory `"newdir"`.
 6. `cd ..`returns to the parent directory of the current directory
 7. `~` can replace the part from begin to the part of my account, which is the path of log-in directory
+
 ---
 In this lab, I learn about how to use terminal in Visual Code and some commands that can be used in the terminal.
 
