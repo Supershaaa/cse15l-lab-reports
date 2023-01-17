@@ -36,5 +36,9 @@ I try these commands together:
 ![Image](lab1-4.png)
 
 1. `pwd` always displays the full absolute path for the current working directory.
-2. 
-
+2. `ls` always list out the files in the current directory.
+3. `touch` helps make a new file
+4. `mkdir` creates a new child directory under current directory
+5. `cp hello.txt newdir` copied the file `"hello.txt"` into directory `"newdir"`.
+6. `cd ..`returns to the parent directory of the current directory
+7. `~` can replace the part from begin to the part of my account, which is the path of log-in directory
