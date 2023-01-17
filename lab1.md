@@ -1,8 +1,10 @@
 # Lab Report 1
 
-**Hi! Welcome to my tutorial!
+**Hi! Welcome to my tutorial!**
 
-This is a tutorial to help myself and reader building my own cse15l-related account on `ieng6` and clarify the process step by step.
+![Image](lab1-welcome.png)
+
+This is a tutorial to help myself and readers build my own cse15l-related account on `ieng6` and clarify the process step by step.
 
 The first step is a very imporant start!
 ### Step 1. Look Up your cse15l account on Website
